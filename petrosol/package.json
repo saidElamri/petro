@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "parlant-chat-react": "^1.0.10",
     "parlant-client": "^3.0.1",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
