@@ -10,7 +10,7 @@ PetroSolPro est une application React démo destinée à présenter une solution
 - **Suivi des stocks** : Visualisation précise des niveaux de stock.
 - **Prévention des fraudes** : Système d'alerte pour anomalies détectées.
 - **Maintenance & automatisme** : Solutions complètes d’entretien et d’automatisation.
-- **Intégration du chatbot Parlant pour assistance et réponses automatisées
+- **Intégration du chatbot Parlant** pour assistance et réponses automatisées
 
 ---
 
