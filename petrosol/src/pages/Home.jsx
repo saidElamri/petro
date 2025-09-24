@@ -1,3 +1,5 @@
+
+
 export default function Home() {
   return (
     <main className="container-custom pt-28 pb-16 min-h-screen flex flex-col justify-center">
@@ -16,6 +18,7 @@ export default function Home() {
           d’alimentation, d’automatisme et de contrôle, ainsi que des solutions d’entretien.
         </p>
       </section>
+   
     </main>
   );
 }

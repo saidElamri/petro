@@ -20,7 +20,7 @@ export default function Navbar() {
           className="text-2xl font-extrabold tracking-widest text-gray-900 hover:text-red-600 transition"
           onClick={() => setIsOpen(false)}
         >
-          AZA<span className="text-red-600">Petro</span>
+          AGA<span className="text-red-600">Petro</span>
         </Link>
 
         {/* Desktop Menu */}
