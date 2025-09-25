@@ -1,5 +1,5 @@
 # PetroSolPro — Gestion de Stock et Distribution
-🚀 [Live Demo](https://aza-petro.netlify.app/)
+🚀 [Live Demo](https://aga-petro.netlify.app/)
 PetroSolPro est une application React démo destinée à présenter une solution professionnelle pour la gestion de stocks et la distribution, spécialement conçue pour les stations privées et institutionnelles. L'application met en avant des fonctionnalités clés telles que le suivi des stocks, la prévention des fuites et fraudes, ainsi que des solutions d'automatisation et maintenance.
 
 ---
@@ -10,6 +10,7 @@ PetroSolPro est une application React démo destinée à présenter une solution
 - **Suivi des stocks** : Visualisation précise des niveaux de stock.
 - **Prévention des fraudes** : Système d'alerte pour anomalies détectées.
 - **Maintenance & automatisme** : Solutions complètes d’entretien et d’automatisation.
+- **Intégration du chatbot Parlant** pour assistance et réponses automatisées
 
 ---
 
